@@ -11,3 +11,13 @@ body {
   margin-right: auto;
   padding: 0 10px;
 }
+
+.MainPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 750px;
+  width: auto;
+}
