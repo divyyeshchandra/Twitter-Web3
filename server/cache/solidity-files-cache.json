@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\aryaa\\OneDrive\\Desktop\\Twitter-Web3\\server\\contracts\\TwiterContract.sol": {
+      "lastModificationDate": 1692450006704,
+      "contentHash": "f7e29ccb97425dae7e94628877ad1dab",
+      "sourceName": "contracts/TwiterContract.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "TwiterContract"
+      ]
+    }
+  }
+}
